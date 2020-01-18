@@ -1,4 +1,5 @@
 # Palestras
 
-Neste repositório você encontra TODOS os materiais relativo as minhas palestras.
+Neste repositório você encontra TODOS os materiais relativos as minhas palestras.
+
 Fique a vontade :))
