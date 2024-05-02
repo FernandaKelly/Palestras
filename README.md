@@ -4,6 +4,11 @@ Neste repositório você encontra TODOS os materiais relativos as minhas palestr
 
 ## 2024
 
+1. [International Women Day's 2024]([https://cemeg.ime.ufg.br/p/20585-o-evento](https://www.iwdcerrado.com.br/))
+     * No dia 27/04/2024, às 10h, o R-Ladies Goiânia+, a convite da comissão organizadora do evento, esteve presente apresentando a palestra intitulada por: Observar e absorver, em qual momento a diversidade atinge você?.
+     * Apresentado por  [Fernanda Kelly](https://www.linkedin.com/in/fernanda-kelly-98a43b17a/).
+     * [Apresentação em PDF](https://github.com/FernandaKelly/Palestras)
+
 ## 2023
 
 ## 2019
